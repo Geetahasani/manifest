@@ -1,0 +1,16 @@
+{
+    "name": "Product Page PWA",
+    "short_name": "Products",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2196f3",
+    "icons": [
+      {
+        "src": "https://cdn-icons-png.flaticon.com/128/9280/9280764.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }
+    ]
+  }
+  
